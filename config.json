@@ -1,0 +1,146 @@
+{
+  "nomSite": "Le Coin du Setup",
+  "slogan": "Votre guide vers vos prochaines lectures",
+  "menu": [
+    {
+      "nom": "Accueil",
+      "lien": "index.html"
+    },
+    {
+      "nom": "Claviers",
+      "lien": "page01.html"
+    },
+    {
+      "nom": "Souris",
+      "lien": "page02.html"
+    },
+    {
+      "nom": "Manettes",
+      "lien": "page03.html"
+    },
+    {
+      "nom": "Contact",
+      "lien": "contact.html"
+    },
+    {
+      "nom": "L'Envers du Décor",
+      "lien": "stack.html"
+    }
+  ],
+  "produits": {
+    "page01": [
+      {
+        "titre": "Keychron K5 Pro Clavier Mécanique sans Fil Ultra-Mince",
+        "prix": "139.99€",
+        "image": "https://m.media-amazon.com/images/I/618Zsqdl9OL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4qvsdy4"
+      },
+      {
+        "titre": "Logitech K280e Pro Clavier Filaire",
+        "prix": "24.90€",
+        "image": "https://m.media-amazon.com/images/I/61rcUn4E06L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rflids"
+      },
+      {
+        "titre": "ASUS - ROG Azoth Clavier Gaming sans Fil (USB/Bluetooth/RF 2,4 GHz)",
+        "prix": "281.00€",
+        "image": "https://m.media-amazon.com/images/I/61r7GIvVNzL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4kAXXR4"
+      },
+      {
+        "titre": "CORSAIR K55 RGB PRO Clavier de Jeu Filaire à Membrane – IP42",
+        "prix": "59.99€",
+        "image": "https://m.media-amazon.com/images/I/81e5bpi9xkL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rPLs6x"
+      },
+      {
+        "titre": "The G-Lab - Keyz Hydrogen",
+        "prix": "19.95€",
+        "image": "https://m.media-amazon.com/images/I/71BgMuZtBtL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3MyoZfb"
+      },
+      {
+        "titre": "RK ROYAL KLUDGE C98 FR Clavier",
+        "prix": "82.49€",
+        "image": "https://m.media-amazon.com/images/I/61tVi7Kj5PL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4qwpFj0"
+      }
+    ],
+    "page02": [
+      {
+        "titre": "ProtoArc EM11 NL",
+        "prix": "27.99€",
+        "image": "https://m.media-amazon.com/images/I/511qcVCPKbL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45Z4LSl"
+      },
+      {
+        "titre": "Corsair NIGHTSWORD RGB",
+        "prix": "66.95€",
+        "image": "https://m.media-amazon.com/images/I/61J0jXfUPwL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3M7M4oW"
+      },
+      {
+        "titre": "Corsair Scimitar RGB Elite",
+        "prix": "59.99€",
+        "image": "https://m.media-amazon.com/images/I/614J0VriTRL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4kvNVAB"
+      },
+      {
+        "titre": "TECKNET Souris Ergonomique sans Fil",
+        "prix": "19.99€",
+        "image": "https://m.media-amazon.com/images/I/71hcBp7MA6L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rOngBu"
+      },
+      {
+        "titre": "Logitech M185 Souris sans Fil",
+        "prix": "10.00€",
+        "image": "https://m.media-amazon.com/images/I/51WN5aXZWIL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Zvcjsw"
+      },
+      {
+        "titre": "Logitech MX Master 4",
+        "prix": "122.99€",
+        "image": "https://m.media-amazon.com/images/I/61D7dUYR3DL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4tuuyvR"
+      }
+    ],
+    "page03": [
+      {
+        "titre": "EasySMX Manette PC Sans Fil",
+        "prix": "59.99€",
+        "image": "https://m.media-amazon.com/images/I/814HuyQAUNL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3MfSthP"
+      },
+      {
+        "titre": "GameSir Manette de Jeu Sans Fil G7 Pro",
+        "prix": "119.99€",
+        "image": "https://m.media-amazon.com/images/I/81NCw8ixKOL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4kyOyt8"
+      },
+      {
+        "titre": "UPGRADE Manette pour Switch",
+        "prix": "23.99€",
+        "image": "https://m.media-amazon.com/images/I/71PZm+JQyqL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46zyQIl"
+      },
+      {
+        "titre": "FIEHDUW NO DRIFT ManbaOne",
+        "prix": "86.99€",
+        "image": "https://m.media-amazon.com/images/I/61sDMKhYz4L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4aIsIjn"
+      },
+      {
+        "titre": "EasySMX Manettes",
+        "prix": "56.99€",
+        "image": "https://m.media-amazon.com/images/I/81TjkVkSlhL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rcdGIH"
+      },
+      {
+        "titre": "KROM KEY ",
+        "prix": "19.90€",
+        "image": "https://m.media-amazon.com/images/I/613m6-FloLS._AC_SL1200_.jpg",
+        "link": "https://amzn.to/46J8Vhk"
+      }
+    ]
+  }
+}
